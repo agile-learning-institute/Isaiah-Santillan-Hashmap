@@ -1,0 +1,24 @@
+{
+  "name": "isaiah-santillan-hashmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agile-learning-institute/Isaiah-Santillan-Hashmap.git"
+  },
+  "author": "Isaiah Santillan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agile-learning-institute/Isaiah-Santillan-Hashmap/issues"
+  },
+  "homepage": "https://github.com/agile-learning-institute/Isaiah-Santillan-Hashmap#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "webpack": "^5.99.9"
+  }
+}
